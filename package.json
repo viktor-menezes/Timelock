@@ -1,6 +1,6 @@
 {
   "name": "@nissin/timelock",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Uma package que facilita a criação de cooldowns em discord.js",
   "main": "index.js",
   "scripts": {
