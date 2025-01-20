@@ -14,7 +14,7 @@ A simple and efficient cooldown package for Discord bots, written in JavaScript,
 
 To install the package, run the following command in your terminal:
 
-````bash
+```bash
 npm install discord-cooldown```
 
 ## Usage
@@ -136,4 +136,3 @@ This package is open-source and available under the [MIT License](./LICENSE)
 ## Contact
 
 For questions, issues, or suggestions, feel free to reach out via GitHub issues or contact me at [victorramosjoaorocha@gmail.com.](mailto:victorramosjoaorocha@gmail.com.)
-````
