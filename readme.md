@@ -14,8 +14,9 @@ A simple and efficient cooldown package for Discord bots, written in JavaScript,
 
 To install the package, run the following command in your terminal:
 
-````bash
-npm install discord-cooldown```
+```bash
+npm install discord-cooldown
+```
 
 ## Usage
 
@@ -41,7 +42,8 @@ console.log('Time remaining:', getRemainingTime('123', 'ping'), 'seconds');
 clearCooldown('123', 'ping');
 
 // Clear all active cooldowns
-clearAllCooldowns();```
+clearAllCooldowns();
+```
 
 ## Functions
 
@@ -115,7 +117,7 @@ We welcome contributions! If you'd like to improve this package, feel free to fo
 1. Fork the repository
 
 
-2. Create a new branch (git checkout -b feature/your-feature)
+2. Create a new branch (git checkout -b feature/@nissin/timelock)
 
 
 3. Make your changes
@@ -124,7 +126,7 @@ We welcome contributions! If you'd like to improve this package, feel free to fo
 4. Commit your changes (git commit -am 'Add new feature')
 
 
-5. Push to the branch (git push origin feature/your-feature)
+5. Push to the branch (git push origin feature/@nissin/timelock)
 
 
 6. Open a pull request
@@ -136,4 +138,3 @@ This package is open-source and available under the [MIT License](./LICENSE)
 ## Contact
 
 For questions, issues, or suggestions, feel free to reach out via GitHub issues or contact me at [victorramosjoaorocha@gmail.com.](mailto:victorramosjoaorocha@gmail.com.)
-````
