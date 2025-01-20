@@ -15,7 +15,8 @@ A simple and efficient cooldown package for Discord bots, written in JavaScript,
 To install the package, run the following command in your terminal:
 
 ```bash
-npm install discord-cooldown```
+npm install discord-cooldown
+```
 
 ## Usage
 
@@ -41,7 +42,8 @@ console.log('Time remaining:', getRemainingTime('123', 'ping'), 'seconds');
 clearCooldown('123', 'ping');
 
 // Clear all active cooldowns
-clearAllCooldowns();```
+clearAllCooldowns();
+```
 
 ## Functions
 
