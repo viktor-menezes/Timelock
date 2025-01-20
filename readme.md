@@ -117,7 +117,7 @@ We welcome contributions! If you'd like to improve this package, feel free to fo
 1. Fork the repository
 
 
-2. Create a new branch (git checkout -b feature/your-feature)
+2. Create a new branch (git checkout -b feature/@nissin/timelock)
 
 
 3. Make your changes
@@ -126,7 +126,7 @@ We welcome contributions! If you'd like to improve this package, feel free to fo
 4. Commit your changes (git commit -am 'Add new feature')
 
 
-5. Push to the branch (git push origin feature/your-feature)
+5. Push to the branch (git push origin feature/@nissin/timelock)
 
 
 6. Open a pull request
